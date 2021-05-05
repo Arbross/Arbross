@@ -2,11 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m not currently working on anywhere
-- 🌱 I’m currently learning C++, C#, UML, Patterns
+- 🔭 I’m not currently studying
+- 🌱 I’m currently learning WF(Windows Forms (.Net Core))
 - 👯 I’m looking to collaborate on C++
-- 🤔 I’m looking for help with ...
+- 🤔 I’m not looking for help now
 - 💬 Ask me about anything
-- 📫 How to reach me: 
+- 📫 How to reach me: currently it isn't available
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am half Finnish
+- ⚡ Fun fact: I can't to finish my HW tasks ;D
+-              I'm trying to do them!
