@@ -2,8 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m not currently studying
-- 🌱 I’m currently learning WF(Windows Forms (.Net Core))
+- 🌱 I’m currently learning WPF
 - 👯 I’m looking to collaborate on C++
 - 🤔 I’m not looking for help now
 - 💬 Ask me about anything
