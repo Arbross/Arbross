@@ -2,8 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning SQL(Databases)
-- 👯 I’m looking to collaborate on C++
+- 🌱 I’m currently learning Entity Framework
 - 💬 Ask me about anything
 - 📫 How to reach me: currently it isn't available
 - 😄 Pronouns: He/Him
