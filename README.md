@@ -1,8 +1,7 @@
-### Hi Here is What I'm Working On! 👋
 
-Here are some ideas to get you started:
+![Image alt](https://github.com/Arbross/Arbross/raw/main/github.png)
 
-- 🌱 I’m currently learning Entity Framework
+- 🌱 I’m currently learning System Programming
 - 💬 Ask me about anything
 - 📫 How to reach me: currently it isn't available
 - 😄 Pronouns: He/Him
