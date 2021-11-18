@@ -1,5 +1,5 @@
 
-![Image alt](https://github.com/Arbross/Arbross/raw/main/github.png)
+![Image alt](https://pbs.twimg.com/profile_images/1068126229784600576/jBggJ6bm_400x400.jpg)
 
 - 🌱 I’m currently learning JavaScript, JQuery
 - 💬 Ask me about anything
