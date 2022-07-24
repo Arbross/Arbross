@@ -1,5 +1,5 @@
     
-	![Alt text](relative/path/to/imgage.png?raw=true "Title")<br />
+	![alt text](/image.png)<br />
 	
 	🌱 I’m currently learning Java<br />
 	🌱 I’m working by creating Telegram Bot<br />
