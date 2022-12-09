@@ -1,8 +1,8 @@
 <div align="center">
-<img src="http://www.zenyomanagement.nl/wp-content/uploads/2018/08/About-me-1024x404.png" align="center" />
+<img src="https://images.squarespace-cdn.com/content/v1/602f07068fd27c193b26510a/1620861131457-27O7ZO78YYW8BNQMX5Y0/about_yellow.png" align="center" />
 </div>  
 
-### Good Day And Welcome!
+## Good Day And Welcome!
 
  - 🌱 I’m currently learning Android Studio & Java<br />
  - 🌱 I’m working by creating Twitter Study Clone<br />
@@ -20,6 +20,8 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross" align="center" />
 </div>
+
+<br />
 
 <div align="center">
             <a href="https://paypal.me/" target="_blank" style="display: inline-block;">
