@@ -8,7 +8,7 @@
 
 ## Good Day And Welcome!
 
- - 🌱 I’m currently learning Android Studio & Java<br />
+ - 🌱 I’m currently learning ASP.NET<br />
  - 🌱 I’m working by creating Twitter Study Clone<br />
  - 💬 Ask me about anything<br />
  - 📫 How to reach me: ---<br />
