@@ -10,11 +10,7 @@
  - 📫 How to reach me: ---<br />
  - 😄 Pronouns: He/Him
 	
-<div align="center">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arbross&show_icons=true)
-</div>  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arbross&show_icons=true)
 
-<div align="center">
 ![](https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross)
-</div>  
