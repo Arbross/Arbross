@@ -1,7 +1,7 @@
 ### Good Day And Welcome!
 
  - 🌱 I’m currently learning Android Studio & Java<br />
- - 🌱 I’m working by creating Telegram Bot<br />
+ - 🌱 I’m working by creating Twitter Study Clone<br />
  - 💬 Ask me about anything<br />
  - 📫 How to reach me: ---<br />
  - 😄 Pronouns: He/Him
