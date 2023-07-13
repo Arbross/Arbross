@@ -1,7 +1,7 @@
 - 🌱 I’m currently learning Python, FastAPI<br />
-- 🌱 I’m working by creating Storage Diploma System<br />
+- 🌱 I’m working by creating Storage Diploma's System<br />
 - 💬 Ask me about anything<br />
-- 📫 Discord: Arbross#4168<br />
+- 📫 Discord: arbross<br />
 - 😄 Pronouns: He/Him
 
 <br />
