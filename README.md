@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Python, FastAPI<br />
+- 🌱 I’m currently learning C++<br />
 - 🌱 I’m working by creating Storage Diploma's System<br />
 - 💬 Ask me about anything<br />
 - 📫 Discord: arbross<br />
