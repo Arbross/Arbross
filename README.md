@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning C++<br />
-- 🌱 I’m working by creating Storage Diploma's System<br />
+- 🌱 I’m currently learning UE5, C++<br />
+- 🌱 I’m working by creating a game<br />
 - 💬 Ask me about anything<br />
 - 📫 Discord: arbross<br />
 - 😄 Pronouns: He/Him
