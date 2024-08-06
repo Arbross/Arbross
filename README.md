@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning UE5, C++<br />
-- 🌱 I’m working by creating a game<br />
+- 🌱 I’m currently learning NextJS<br />
+- 🌱 I’m working on creating some web platform<br />
 - 💬 Ask me about anything<br />
 - 📫 Discord: arbross<br />
 - 😄 Pronouns: He/Him
