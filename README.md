@@ -1,5 +1,6 @@
 <div align="center" styles="text-align: center;">
 	<h3>Hi I am a student at the Lublin University Of Technologies</h3>
+	<hr/>
 	📖 I’m currently learning NextJS 📖<br />
 	💾 I’m working on creating D&D web platform 💾<br />
 	💬 Ask me about anything 💬<br />
@@ -8,6 +9,8 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Arbross&theme=radical&show_icons=true&count_private=true&hide_border=true" 
 	    align="center" />
+    <br/>
+</div>
 </div>
 <div align="center">
 	<img
