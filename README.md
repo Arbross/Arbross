@@ -1,20 +1,13 @@
 <div align="center" styles="text-align: center;">
+	<h1>Hi I am a student at the Lublin University Of Technologies</h1>
 	📖 I’m currently learning NextJS 📖<br />
-	💾 I’m working on creating some web platform 💾<br />
+	💾 I’m working on creating D&D web platform 💾<br />
 	💬 Ask me about anything 💬<br />
-	📫 Discord: arbross 📫<br />
+	📫 Contact me on Discord: arbross 📫<br />
 </div>
-
-<br />
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arbross&show_icons=true&count_private=true&hide_border=true" 
-	    align="center" 
-	    style="width: 100%" />
-</div>
-
-<div align="center">
-	
+    <img src="https://github-readme-stats.vercel.app/api?username=Arbross&hide=stars,prs&theme=radical&show_icons=true&count_private=true&hide_border=true" 
+	    align="center" />
 </div>
 <div align="center">
 	<img
