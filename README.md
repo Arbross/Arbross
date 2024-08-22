@@ -1,12 +1,12 @@
 <div align="center" styles="text-align: center;">
-	<h1>Hi I am a student at the Lublin University Of Technologies</h1>
+	<h3>Hi I am a student at the Lublin University Of Technologies</h3>
 	📖 I’m currently learning NextJS 📖<br />
 	💾 I’m working on creating D&D web platform 💾<br />
 	💬 Ask me about anything 💬<br />
 	📫 Contact me on Discord: arbross 📫<br />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arbross&hide=stars,prs&theme=radical&show_icons=true&count_private=true&hide_border=true" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Arbross&theme=radical&show_icons=true&count_private=true&hide_border=true" 
 	    align="center" />
 </div>
 <div align="center">
