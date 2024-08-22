@@ -14,7 +14,10 @@
 </div>
 
 <div align="center">
-	![visitors]([https://visitor-badge.laobi.icu/badge?page_id=page.id](https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross))
+	<img
+            src="[https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee](https://visitor-badge.laobi.icu/badge?page_id=page.id](https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross)"
+            align="center"
+        />
 </div>
 <div align="center">
 	<a href="https://www.buymeacoffee.com/arbross" target="_blank" style="display: inline-block;">
