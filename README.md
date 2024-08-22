@@ -15,7 +15,7 @@
 
 <div align="center">
 	<img
-            src="[https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee](https://visitor-badge.laobi.icu/badge?page_id=page.id](https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross)"
+            src="https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross"
             align="center"
         />
 </div>
