@@ -1,17 +1,20 @@
-- 🌱 I’m currently learning NextJS<br />
-- 🌱 I’m working on creating some web platform<br />
-- 💬 Ask me about anything<br />
-- 📫 Discord: arbross<br />
-- 😄 Pronouns: He/Him
+<div align="center" styles="text-align: center;">
+	📖 I’m currently learning NextJS 📖<br />
+	💾 I’m working on creating some web platform 💾<br />
+	💬 Ask me about anything 💬<br />
+	📫 Discord: arbross 📫<br />
+</div>
 
 <br />
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arbross&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arbross&show_icons=true&count_private=true&hide_border=true" 
+	    align="center" 
+	    style="width: 100%" />
 </div>
 
 <div align="center">
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross" align="center" />
+	![visitors]([https://visitor-badge.laobi.icu/badge?page_id=page.id](https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross))
 </div>
 <div align="center">
 	<a href="https://www.buymeacoffee.com/arbross" target="_blank" style="display: inline-block;">
