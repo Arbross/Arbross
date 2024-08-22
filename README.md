@@ -5,7 +5,7 @@
 	💬 Ask me about anything 💬<br />
 	📫 Contact me on Discord: arbross 📫<br />
 </div>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,docker,cs,cpp,dotnet,postgres,redux)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,docker,cs,cpp,dotnet,postgres,redux)](https://github.com/Arbross)
 <br/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Arbross&theme=radical&show_icons=true&count_private=true&hide_border=true" 
