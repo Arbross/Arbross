@@ -1,25 +1,31 @@
-<div align="center" styles="text-align: center;">
-	<h3 style="margin-bottom: 0;">👋 Hi I am a student at the Lublin University Of Technologies 👋</h3>
-	📖 I’m currently learning NextJS 📖<br />
-	💾 Currently I’m working on creating web platform for D&D 💾<br />
-	💬 Ask me about anything 💬<br />
-	📫 Contact me on Discord: arbross 📫<br />
-</div>
-<br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arbross&theme=radical&show_icons=true&count_private=true&hide_border=true" 
-	    align="center" />
-</div>
-<div align="center">
-	<img
-            src="https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross"
-            align="center"
-        />&#9;
-	<a href="https://www.buymeacoffee.com/arbross" target="_blank" style="display: inline-block;">
-        <img
-            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
-            align="center"
-        />
-    </a>
-</div>
+# 👋 Hey, I'm **Arbross**
+### FullStack Developer | Student at Lublin University of Technology
 
+| ℹ️ Topic | 📌 |
+| :--- | :--- |
+| 📖 **Currently learning:** | Astro & Unity |
+| 💾 **Working On:** | Web Game Implementation |
+| 💬 **Ask me about:** | Anything! |
+| 📫 **Contact me on Discord:** | `arbross` |
+
+## 🛠️ Tech Stack
+| Category | Skills |
+| :--- | :--- |
+| 💻 **Languages** | C#, JS (TS), HTML, CSS, C++ |
+| 🎨 **Frontend** | React, Astro |
+| ⚙️ **Backend** | ASP.NET Core |
+| 🎮 **Game Dev** | Unity, C# |
+| 🗄️ **Database** | PostgreSQL, MongoDB |
+| 🛠️ **Tools** | Git, Figma |
+
+## 🌱 Familiar With
+| Technology | Experience |
+| :--- | :--- |
+| Python | Basic scripting & automation |
+| Docker | Container basics |
+| Linux | Daily use & server management |
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Arbross.Arbross" align="center" />&#9;
+<a href="https://www.buymeacoffee.com/arbross" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
+</a>
